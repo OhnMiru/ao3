@@ -113,7 +113,7 @@ body {
     top: 92px;
     z-index: 13;
     pointer-events: none;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .phone-smear {
@@ -125,7 +125,7 @@ body {
     pointer-events: none;
     bottom: 100;
     margin-left: 39px;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .phone-splatter {
@@ -138,7 +138,7 @@ body {
     top: 250;
     margin-left: 39px;
     filter: hue-rotate(162deg) brightness(3.5);
-    opacity: 0.7;
+    opacity: 0;
 }
 
 
